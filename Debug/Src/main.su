@@ -1,0 +1,7 @@
+../Src/main.c:31:5:main	8	static
+../Src/main.c:60:6:AppInitCommon	8	static
+../Src/main.c:79:6:BuzzerControl_SetStatus	16	static
+../Src/main.c:101:9:ButtonRead_Status	24	static
+../Src/main.c:119:6:Delay	24	static
+../Src/main.c:135:6:Buzzer_Init	16	static
+../Src/main.c:169:6:Button_Init	16	static
